@@ -1,0 +1,32 @@
+{
+  "name": "kelemvor",
+  "version": "1.0.0",
+  "description": "Analyze if a package dependencies are dead",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "author": {
+    "name": "Nikita Skovoroda",
+    "email": "chalkerx@gmail.com",
+    "url": "https://github.com/ChALkeR"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChALkeR/Kelemvor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChALkeR/Kelemvor/issues"
+  },
+  "files": [
+    "lib/**.js",
+    "index.js"
+  ],
+  "dependencies": {
+    "jergal": "^1.0.1",
+    "lz4": "^0.5.3",
+    "semver": "^5.5.0"
+  }
+}
