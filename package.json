@@ -1,6 +1,6 @@
 {
   "name": "kelemvor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze if a package dependencies are dead",
   "main": "index.js",
   "scripts": {},
